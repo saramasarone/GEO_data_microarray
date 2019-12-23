@@ -7,3 +7,4 @@ The data is freely available and comes from a study in 2009: "A Genomic Score Pr
 
 -Type of data: microarray
 
+Visit the NCBI Geo website for more info about the study
