@@ -1,4 +1,4 @@
-# GEO_data_microarray (Gen.score in trauma patients) 👩🏻‍🔬
+# GEO data microarray (genetics score in trauma patients) 👩🏻‍🔬
 
 Analysis of an open access GEO dataset (microarray)
 code to get data access:  GSE11375 
