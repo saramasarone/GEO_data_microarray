@@ -1,6 +1,6 @@
 # GEO data microarray (genetics score in trauma patients) 👩🏻‍🔬
 
-Analysis of an open access GEO dataset (microarray)
+Analysis of an open access GEO dataset (microarray data)
 code to get data access:  GSE11375 
 
 `limma`
